@@ -14,6 +14,8 @@ This repository contains my first Power BI dashboard project. The dashboard was 
 ## Files
 
 * `HR dashboard.pbix` – Power BI dashboard file
+* `HR_Analytics.csv` – Dataset file
+
 
 ## Tools Used
 
